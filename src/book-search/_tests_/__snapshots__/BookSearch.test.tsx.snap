@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`setOpenIndex sets the open index state properly 1`] = `
+<Fragment>
+  <div
+    className="book--container"
+  >
+    <div
+      className="search-params"
+    >
+      <WithStyles(ForwardRef(Grid))
+        container={true}
+      >
+        <WithStyles(ForwardRef(Grid))
+          className="makeStyles-outline-1"
+          item={true}
+          xs={8}
+        >
+          <form
+            onSubmit={[Function]}
+          >
+            <input
+              autoFocus={true}
+              className="full-width"
+              name="gsearch"
+              onChange={[Function]}
+              placeholder="Search for books to add to your reading list "
+              type="search"
+              value=""
+            />
+          </form>
+          <div
+            className="empty"
+          >
+            <p>
+              Try searching for a topic, for example
+              <a
+                onClick={[Function]}
+              >
+                 
+                "Javascript"
+              </a>
+            </p>
+          </div>
+        </WithStyles(ForwardRef(Grid))>
+        <WithStyles(ForwardRef(Grid))
+          className="makeStyles-outline-1"
+          item={true}
+          xs={3}
+        >
+          <WithStyles(ForwardRef(Paper))>
+            <Memo(BookWishlist)
+              deleteBook={[Function]}
+              wishlist={Object {}}
+            />
+          </WithStyles(ForwardRef(Paper))>
+        </WithStyles(ForwardRef(Grid))>
+      </WithStyles(ForwardRef(Grid))>
+    </div>
+  </div>
+</Fragment>
+`;

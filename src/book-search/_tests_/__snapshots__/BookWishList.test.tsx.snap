@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Detailed Table snapshot should render correctly in "debug" mode 1`] = `
+<Fragment>
+  <WithStyles(ForwardRef(Paper))
+    color="primary"
+    variant="elevation"
+  >
+    <Styled(MuiBox)
+      className="wishlist"
+      p={2}
+    >
+      My Reading Wishlist (
+      2
+      )
+    </Styled(MuiBox)>
+  </WithStyles(ForwardRef(Paper))>
+  <WithStyles(ForwardRef(List))>
+    <WithStyles(ForwardRef(ListItem))
+      key="ptiYBAAAQBAJ"
+    >
+      <WithStyles(ForwardRef(ListItemAvatar))>
+        <WithStyles(ForwardRef(Avatar))
+          src="http://books.google.com/books/content?id=ptiYBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        />
+      </WithStyles(ForwardRef(ListItemAvatar))>
+      <WithStyles(ForwardRef(ListItemText))
+        primary="JavaScript & jQuery: The Missing Manual"
+      />
+      <WithStyles(ForwardRef(ListItemSecondaryAction))>
+        <WithStyles(ForwardRef(IconButton))
+          aria-label="delete"
+          edge="end"
+        >
+          <DeleteIcon
+            name="icon-delete"
+            onClick={[Function]}
+          />
+        </WithStyles(ForwardRef(IconButton))>
+      </WithStyles(ForwardRef(ListItemSecondaryAction))>
+    </WithStyles(ForwardRef(ListItem))>
+    <WithStyles(ForwardRef(ListItem))
+      key="p1v6DwAAQBAJ"
+    >
+      <WithStyles(ForwardRef(ListItemAvatar))>
+        <WithStyles(ForwardRef(Avatar))
+          src="http://books.google.com/books/content?id=p1v6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        />
+      </WithStyles(ForwardRef(ListItemAvatar))>
+      <WithStyles(ForwardRef(ListItemText))
+        primary="Eloquent JavaScript"
+      />
+      <WithStyles(ForwardRef(ListItemSecondaryAction))>
+        <WithStyles(ForwardRef(IconButton))
+          aria-label="delete"
+          edge="end"
+        >
+          <DeleteIcon
+            name="icon-delete"
+            onClick={[Function]}
+          />
+        </WithStyles(ForwardRef(IconButton))>
+      </WithStyles(ForwardRef(ListItemSecondaryAction))>
+    </WithStyles(ForwardRef(ListItem))>
+  </WithStyles(ForwardRef(List))>
+</Fragment>
+`;

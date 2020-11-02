@@ -1,0 +1,194 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Detailed Table snapshot should render correctly in "debug" mode 1`] = `
+<WithStyles(ForwardRef(List))>
+  <WithStyles(ForwardRef(ListItem))
+    alignItems="flex-start"
+  >
+    <WithStyles(ForwardRef(ListItemAvatar))>
+      <WithStyles(ForwardRef(Avatar))
+        alt="Cindy Baker"
+        src="http://books.google.com/books/content?id=ptiYBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        style={
+          Object {
+            "height": "150px",
+            "width": "150px",
+          }
+        }
+        variant="square"
+      />
+      <WithStyles(ForwardRef(Button))
+        className="makeStyles-button-4"
+        color="primary"
+        name="btn-wishlist"
+        onClick={[Function]}
+        variant="contained"
+      >
+        Add to Wishlist
+      </WithStyles(ForwardRef(Button))>
+    </WithStyles(ForwardRef(ListItemAvatar))>
+    <WithStyles(ForwardRef(Grid))
+      alignItems="baseline"
+      className="makeStyles-grid-3"
+      container={true}
+      direction="column"
+      justify="center"
+    >
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={12}
+      >
+        <WithStyles(ForwardRef(Typography))
+          className="makeStyles-inline-1"
+          color="textPrimary"
+          variant="h6"
+        >
+          Title - 
+        </WithStyles(ForwardRef(Typography))>
+        JavaScript & jQuery: The Missing Manual
+      </WithStyles(ForwardRef(Grid))>
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={12}
+      >
+        <WithStyles(ForwardRef(Typography))
+          className="makeStyles-inline-1"
+          color="textPrimary"
+          variant="h6"
+        >
+          Authors - 
+        </WithStyles(ForwardRef(Typography))>
+        David Sawyer McFarland
+      </WithStyles(ForwardRef(Grid))>
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={12}
+      >
+        <WithStyles(ForwardRef(Typography))
+          className="makeStyles-inline-1"
+          color="textPrimary"
+          component="span"
+          variant="h6"
+        >
+          Publisher - 
+        </WithStyles(ForwardRef(Typography))>
+        "O'Reilly Media, Inc."
+      </WithStyles(ForwardRef(Grid))>
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={12}
+      >
+        <WithStyles(ForwardRef(Typography))
+          className="makeStyles-inline-1"
+          color="textPrimary"
+          component="span"
+          variant="h6"
+        >
+          Published On - 
+        </WithStyles(ForwardRef(Typography))>
+        2014-09-18
+      </WithStyles(ForwardRef(Grid))>
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={12}
+      >
+        <WithStyles(ForwardRef(Paper))
+          className="makeStyles-paper-2"
+          color="textPrimary"
+          variant="outlined"
+        >
+          JavaScript lets you supercharge your HTML with animation, interactivity, and visual effects—but many web designers find the language hard to learn. This easy-to-read guide not only covers JavaScript basics, but also shows you how to save time and effort with the jQuery and jQuery UI libraries of prewritten JavaScript code. You’ll build web pages that feel and act like desktop programs—with little or no programming. The important stuff you need to know: Pull back the curtain on JavaScript. Learn how to build a basic program with this language. Get up to speed on jQuery. Quickly assemble JavaScript programs that work well on multiple web browsers. Transform your user interface. Learn jQuery UI, the JavaScript library for interface features like design themes and controls. Make your pages interactive. Create JavaScript events that react to visitor actions. Use animations and effects. Build drop-down navigation menus, pop-ups, automated slideshows, and more. Collect data with web forms. Create easy-to-use forms that ensure more accurate visitor responses. Practice with living examples. Get step-by-step tutorials for web projects you can build yourself.
+        </WithStyles(ForwardRef(Paper))>
+      </WithStyles(ForwardRef(Grid))>
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(ListItem))>
+  <WithStyles(ForwardRef(Divider))
+    component="li"
+    variant="inset"
+  />
+  <WithStyles(ForwardRef(ListItem))
+    alignItems="flex-start"
+  >
+    <WithStyles(ForwardRef(ListItemAvatar))>
+      <WithStyles(ForwardRef(Avatar))
+        alt="Cindy Baker"
+        src="http://books.google.com/books/content?id=p1v6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        style={
+          Object {
+            "height": "150px",
+            "width": "150px",
+          }
+        }
+        variant="square"
+      />
+      <WithStyles(ForwardRef(Button))
+        className="makeStyles-button-4"
+        color="primary"
+        name="btn-wishlist"
+        onClick={[Function]}
+        variant="contained"
+      >
+        Add to Wishlist
+      </WithStyles(ForwardRef(Button))>
+    </WithStyles(ForwardRef(ListItemAvatar))>
+    <WithStyles(ForwardRef(Grid))
+      alignItems="baseline"
+      className="makeStyles-grid-3"
+      container={true}
+      direction="column"
+      justify="center"
+    >
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={12}
+      >
+        <WithStyles(ForwardRef(Typography))
+          className="makeStyles-inline-1"
+          color="textPrimary"
+          variant="h6"
+        >
+          Title - 
+        </WithStyles(ForwardRef(Typography))>
+        Eloquent JavaScript
+      </WithStyles(ForwardRef(Grid))>
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={12}
+      >
+        <WithStyles(ForwardRef(Typography))
+          className="makeStyles-inline-1"
+          color="textPrimary"
+          variant="h6"
+        >
+          Authors - 
+        </WithStyles(ForwardRef(Typography))>
+        Marijn Haverbeke
+      </WithStyles(ForwardRef(Grid))>
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={12}
+      />
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={12}
+      />
+      <WithStyles(ForwardRef(Grid))
+        item={true}
+        xs={12}
+      >
+        <WithStyles(ForwardRef(Paper))
+          className="makeStyles-paper-2"
+          color="textPrimary"
+          variant="outlined"
+        >
+          JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications. This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code.
+        </WithStyles(ForwardRef(Paper))>
+      </WithStyles(ForwardRef(Grid))>
+    </WithStyles(ForwardRef(Grid))>
+  </WithStyles(ForwardRef(ListItem))>
+  <WithStyles(ForwardRef(Divider))
+    component="li"
+    variant="inset"
+  />
+</WithStyles(ForwardRef(List))>
+`;
